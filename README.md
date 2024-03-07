@@ -1,7 +1,7 @@
 # Felipe Guzman - Bautista
 📧 af.guzman@outlook.com
 
-**Data Architect | Data Engineering | Business Intelligence | Information Management | Analytics & ML | Cloud Computing**
+** Data Architect | Data Engineering | Business Intelligence | Information Management | Analytics & ML | Cloud Computing **
 
 ## Professional Summary
 Results-driven professional in computer and system engineering with over 9 years of experience, demonstrating a consistent track record of delivering high-impact results in the tech industry. Proficient in software development, data engineering, analytics, and project management. Adept at building strong relationships to facilitate collaborative achievement of high-priority goals. Thrives in fast-paced settings, leveraging expertise to drive team success. Committed to continuous learning and operational excellence. Seeking new cultural experiences and actively pursuing relocation to Japan, with a long-term commitment to live and work in the country. Eager to contribute to technological advancements while embracing the rich Japanese heritage and way of life.
