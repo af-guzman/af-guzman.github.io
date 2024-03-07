@@ -2,17 +2,9 @@
 📧 af.guzman@outlook.com
 
 <style>
-      .title {
-        display: block;
-        border-top: 5px solid #969696;
-        background-color: #76db95;
-        height: 30px;
-        line-height: 30px;
-        padding: 4px 6px;
-        font-size: 16px;
-        color: #000000;
-        margin-bottom: 13px;
-        clear: both;
+.title {
+      display: block;
+      clear: both;
       }    
       .title .date {
         float: right;
