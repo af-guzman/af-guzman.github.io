@@ -28,7 +28,7 @@ Results-driven professional in computer and system engineering with over 9 years
 
 **<span style="float:left; font-weight:bold">Senior Data Architect / Business Intelligence Engineer, Globant, Bogota, Colombia</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">December 2021 – Present</span>*
 
-&nbsp;&nbsp;**<span style="float:left; font-weight:bold">Data Engineering & Analytics Lead, Walt Disney Parks and Resorts, Orlando, Florida (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">September 2023 – Present</span>*
+&nbsp;&nbsp;**<span style="float:left; font-weight:bold"> Data Engineering & Analytics Lead, Walt Disney Parks and Resorts, Orlando, Florida (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">September 2023 – Present</span>*
 - Managed a team of 3 data engineers, overseeing their work on data engineering and analytics projects for Cast Life Application. Mentored and developed team's career goals by fostering further both technical and non-technical skills development.
 - Managed and communicated project scopes, timelines, and resources, ensuring continuous service delivery and successful delivery of new data-driven
 projects.
@@ -37,20 +37,20 @@ projects.
 - Collaborated with cross-functional teams to define project objectives, requirements, and KPIs for data engineering and analytics projects.
 - Analyzed ETL/pipeline incident logs to drive stability and scalability improvements and developed strategies to recover/restore information.
 
-&nbsp;&nbsp;**<span style="float:left; font-weight:bold">Cast Life Analytics Senior Data Architect, Walt Disney Parks and Resorts, Orlando, Florida (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">June 2023 – September 2023</span>*
+&nbsp;&nbsp;**<span style="float:left; font-weight:bold"> CL Analytics Senior Data Architect, Walt Disney Parks and Resorts, Orlando, Florida (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">June 2023 – September 2023</span>*
 - Designed and implemented scalable and resilient data pipelines for near real-time data streaming, facilitating the seamless transition of Disney Cast Life client application data from NewRelic to Google BigQuery. Used Cloud Functions and Cloud Schedulers to automate ETL processes.
 - Pioneered the implementation of a delta architecture and data governance model within BigQuery, ensuring the dynamic management of large datasets with unstructured schemas. This initiative resulted in continuous operational improvement, enhanced data ingestion, and optimized query performance.
 - Led the development and implementation of Tableau dashboards, empowering business and operations stakeholders with data-driven decision-making capabilities.
 - Fostered a data-discovery culture and promoted self-service analytics among Cast Life Product managers by creating user-friendly tools, contributing to improved data accessibility and insights generation.
 
-&nbsp;&nbsp;**<span style="float:left; font-weight:bold">Cryptographic Services Software Engineer, PayPal X, Austin, Texas (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">April 2022 – July 2023</span>*
+&nbsp;&nbsp;**<span style="float:left; font-weight:bold"> Cryptographic Services Software Engineer, PayPal X, Austin, Texas (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">April 2022 – July 2023</span>*
 - Collaborated extensively with cross-functional teams as a key contributor in core application migration program. Led the successful implementation of process automation scripts utilizing Python, resulting in the seamless migration of over 13,000 applications across QA, Sandbox, and Production environments. Developed a robust RESTful API using Flask, which was deployed on Google Cloud Platform (GCP) within a Docker container managed through Kubernetes.
 - Provided value to the migration program by tracking project milestones and achievements for product management through application data collection and building dashboards in Splunk.
 - Offered functional support for the crypto services platform to PayPal product developers. Designed and implemented a new model for functional productsupport service by expanding Globant’s professional services offering within PayPal, developing commercial engagements, and building new teams from scratch to address key engineering needs.
 - Conducted comprehensive analysis of CI/CD processes at PayPal, identifying specific bottlenecks and presenting a strategic improvement plan with an end-to-end implementation. roadmap.
 - Co-led and provided technical guidance to a team of 10 people, leveraging Globant’s technical capabilities and facilitating engagement between PayPal and Globant.
 
-&nbsp;&nbsp;**<span style="float:left; font-weight:bold">Google Data Architect Academy, Google Inc, Bogota, Colombia</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">February 2022 – April 2022</span>*
+&nbsp;&nbsp;**<span style="float:left; font-weight:bold"> Google Data Architect Academy, Google Inc, Bogota, Colombia</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">February 2022 – April 2022</span>*
 - Participated in the Alphabet Inc / Globant GCP Data Engineer Certification Program, acquiring extensive technical knowledge in Google Cloud Platform (GCP). Developed a deep understanding of GCP's architecture, services, and best practices for data engineering.
 
 **<span style="float:left; font-weight:bold">Associated Technology Manager, IQVIA, Bogota, Colombia</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">January 2021 – December 2021</span>*
@@ -79,7 +79,3 @@ clients in point-of-sale strategy execution.
 
 ### Education
 **<span style="float:left; font-weight:bold">Bachelor in Systems and Computer Engineering, Universidad de los Andes, Bogota, Colombia</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">January 2011 – March 2015</span>*
-
-&nbsp;&nbsp;**<span style="float:left; font-weight:bold">A</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">B</span>*
-
-
