@@ -1,6 +1,5 @@
 # Felipe Guzman - Bautista
-📧 af.guzman@outlook.com
-
+🌐 https://www.linkedin.com/in/afguzman1444/ 
 
 **Data Architect** | **Data Engineering** | **Business Intelligence** | **Information Management** | **Analytics & ML** | **Cloud Computing**
 
