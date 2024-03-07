@@ -97,6 +97,5 @@ clients in point-of-sale strategy execution.
 **<div class="experience"> <span class="title">Bachelor in Systems and Computer Engineering, Universidad de los Andes, Bogota, Colombia </span>&nbsp;&nbsp;<span class="date">January 2011 – March 2015</span></div>**
 
 
-**<span style="display: block;clear: both; float:left; font-weight: bold">A</span>**
-*<span style="display: block;clear: both; float:left; font-weight: italic">B</span>*
+**<span style="display: block;clear: both; float:left; font-weight: bold">A</span>** *<span style="display: block;clear: both; float:left; font-weight: italic">B</span>*
 
