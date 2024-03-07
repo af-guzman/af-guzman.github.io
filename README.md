@@ -99,6 +99,7 @@ clients in point-of-sale strategy execution.
       <span class="date">January 2011 – March 2015</span>
 </div>
 
-
-<span style="display: block;clear: both; float:left; font-weight: bold">A</span> <span style="display: block;clear: both; float:left; font-weight: italic">B</span>
-
+<div style="display: block;clear: both;">
+      <span style="display:block; clear:both; float:left; font-weight:bold">A</span> <span style="display:block; clear:both; float:right; font-weight: italic">B</span>
+</div>
+<span style="display:block; clear:both; float:left; font-weight:bold">C</span> <span style="display:block; clear:both; float:right; font-weight: italic">D</span>
