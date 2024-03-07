@@ -1,19 +1,6 @@
 # Felipe Guzman - Bautista
 📧 af.guzman@outlook.com
-<style>
-.experience {
-      display: block;
-      clear: both;
-      }    
-      .experience .title {
-        float: left;
-        font-weight: bold
-      }      
-      .experience .date {
-        float: right;
-        font-style: italic;
-      }
-</style>
+
 
 **Data Architect** | **Data Engineering** | **Business Intelligence** | **Information Management** | **Analytics & ML** | **Cloud Computing**
 
@@ -36,7 +23,6 @@ Results-driven professional in computer and system engineering with over 9 years
 
 ### Languages 
 **English (C2), French (B2), Japanese (Basic), Spanish (C2)**
-
 
 ### Career History
 
@@ -94,12 +80,6 @@ clients in point-of-sale strategy execution.
 
 
 ### Education
-<div class="experience">
-      <span class="title">Bachelor in Systems and Computer Engineering, Universidad de los Andes, Bogota, Colombia </span>&nbsp;&nbsp;
-      <span class="date">January 2011 – March 2015</span>
-</div>
+**<span style="float:left; font-weight:bold">Bachelor in Systems and Computer Engineering, Universidad de los Andes, Bogota, Colombia</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">January 2011 – March 2015</span>*
 
-<div style="display: block;clear: both;">
-      <span style="display:block; clear:both; float:left; font-weight:bold">A</span> <span style="display:block; clear:both; float:right; font-weight: italic">B</span>
-</div>
-<span style="display:block; clear:both; float:left; font-weight:bold">C</span> <span style="display:block; clear:both; float:right; font-weight: italic">D</span>
+
