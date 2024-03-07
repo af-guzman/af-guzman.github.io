@@ -1,1 +1,10 @@
-
+.experience {
+  display: block;
+  clear: both;
+} .experience .title {
+  float: left;
+  font-weight: bold
+} .experience .date {
+  float: right;
+  font-style: italic;
+}
