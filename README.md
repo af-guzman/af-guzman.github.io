@@ -2,17 +2,18 @@
 📧 af.guzman@outlook.com
 
 <style>
-.title {
-      display: block;
+.experience {
+      display: inline-block;
       clear: both;
       }    
-      .title .date {
+      .experience .title {
         float: right;
+        font-weight: bold
       }      
-      .title .name {
+      .experience .date {
         float: left;
       }
-    </style>
+</style>
 
 
 **Data Architect** | **Data Engineering** | **Business Intelligence** | **Information Management** | **Analytics & ML** | **Cloud Computing**
@@ -94,18 +95,17 @@ clients in point-of-sale strategy execution.
 
 
 ### Education
+**Bachelor in Systems and Computer Engineering, Universidad de los Andes, Bogota, Colombia** 
+
 <div style="display: block; clear: both">
       <span style="display: block; float: left">Bachelor in Systems and Computer Engineering, Universidad de los Andes, Bogota, Colombia</span>
       <span style="display: block; float: right">January 2011 – March 2015</span>
 </div>
 
-**Bachelor in Systems and Computer Engineering, Universidad de los Andes, Bogota, Colombia** 
 
 
 
-<span float='right'>January 2011 – March 2015</span>
-
-<div class="title">
-      <span class="name">Example</span>
+<div class="experience">
+      <span class="title">Example</span>
       <span class="date">05.05.2020</span>
     </div>
