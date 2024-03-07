@@ -3,15 +3,15 @@
 
 <style>
 .experience {
-      display: inline-block;
+      display: block;
       clear: both;
       }    
       .experience .title {
-        float: right;
+        float: left;
         font-weight: bold
       }      
       .experience .date {
-        float: left;
+        float: right;
       }
 </style>
 
@@ -97,15 +97,7 @@ clients in point-of-sale strategy execution.
 ### Education
 **Bachelor in Systems and Computer Engineering, Universidad de los Andes, Bogota, Colombia** 
 
-<div style="display: block; clear: both">
-      <span style="display: block; float: left">Bachelor in Systems and Computer Engineering, Universidad de los Andes, Bogota, Colombia</span>
-      <span style="display: block; float: right">January 2011 – March 2015</span>
-</div>
-
-
-
-
 <div class="experience">
-      <span class="title">Example</span>
-      <span class="date">05.05.2020</span>
-    </div>
+      <span class="title">Bachelor in Systems and Computer Engineering, Universidad de los Andes, Bogota, Colombia</span>
+      <span class="date">January 2011 – March 2015</span>
+</div>
