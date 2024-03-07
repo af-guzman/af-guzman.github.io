@@ -36,7 +36,7 @@ projects.
 - Collaborated with cross-functional teams to define project objectives, requirements, and KPIs for data engineering and analytics projects.
 - Analyzed ETL/pipeline incident logs to drive stability and scalability improvements and developed strategies to recover/restore information.
 
-&nbsp;&nbsp;**<span style="float:left; font-weight:bold"> CL Analytics Senior Data Architect, Walt Disney Parks and Resorts, Orlando, Florida (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">Jun 2023 – Sep 2023</span>*
+&nbsp;&nbsp;**<span style="float:left; font-weight:bold"> Cast Life Analytics Senior Data Architect, Walt Disney Parks and Resorts, Orlando, Florida (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">Jun 2023 – Sep 2023</span>*
 - Designed and implemented scalable and resilient data pipelines for near real-time data streaming, facilitating the seamless transition of Disney Cast Life client application data from NewRelic to Google BigQuery. Used Cloud Functions and Cloud Schedulers to automate ETL processes.
 - Pioneered the implementation of a delta architecture and data governance model within BigQuery, ensuring the dynamic management of large datasets with unstructured schemas. This initiative resulted in continuous operational improvement, enhanced data ingestion, and optimized query performance.
 - Led the development and implementation of Tableau dashboards, empowering business and operations stakeholders with data-driven decision-making capabilities.
