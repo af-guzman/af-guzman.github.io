@@ -29,13 +29,11 @@ High performing professional in systems and computer engineering with 9+ years o
 **<span style="float:left; font-weight:bold">Senior Data Architect / Business Intelligence Engineer, Globant, Bogota, Colombia</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">Dec 2021 – Present</span>*
 
 &nbsp;&nbsp;**<span style="float:left; font-weight:bold"> Data Engineering & Analytics Lead, Walt Disney Parks and Resorts, Orlando, Florida (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">Sep 2023 – Present</span>*
-- Managed a team of 3 data engineers, overseeing their work on data engineering and analytics projects for Cast Life Application. Mentored and developed team's career goals by fostering further both technical and non-technical skills development.
-- Managed and communicated project scopes, timelines, and resources, ensuring continuous service delivery and successful delivery of new data-driven
-projects.
-- Led efforts to increase product improvements based on data analysis, resulting in a 20% enhancement in user satisfaction and engagement.
-- Automated the creation of quarterly insights presentations for Cast Life product managers, streamlining the process and improving data-driven decision-making.
-- Collaborated with cross-functional teams to define project objectives, requirements, and KPIs for data engineering and analytics projects.
-- Analyzed ETL/pipeline incident logs to drive stability and scalability improvements and developed strategies to recover/restore information.
+- Engaged actively with key stakeholders to discover insights and answer strategic business questions, that turned into formal data-driven research projects to discover root-cause issues and/or to suggest specific changes to UI. Changes in content delivery strategies resulted in 20% increase in user engagement for employee news and benefits compared with previous quarter.
+- Led a team of 3 data engineers to keep continuous service delivery, integrate additional datasets and ensure successful delivery of  data-driven initiatives.  
+- Automated the generation of quarterly insights presentations for Cast Life product managers, streamlining the process and improving data-driven decision-making.
+- Released tools to aggregate and summarize raw text user feedback. Insights discovered, led to internal initiatives to improve employee benefits and promotions. 
+Tools/Technologies: NewRelic, BigQuery, Tableau, Jupyter Notebooks, Python, A/B Testing, spaCy, NLP, Scrum.
 
 &nbsp;&nbsp;**<span style="float:left; font-weight:bold"> Cast Life Analytics Senior Data Architect, Walt Disney Parks and Resorts, Orlando, Florida (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">Jun 2023 – Sep 2023</span>*
 - Designed and implemented scalable and resilient data pipelines for near real-time data streaming, facilitating the seamless transition of Disney Cast Life client application data from NewRelic to Google BigQuery. Used Cloud Functions and Cloud Schedulers to automate ETL processes.
