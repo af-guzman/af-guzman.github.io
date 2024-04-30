@@ -1,24 +1,25 @@
 # Felipe Guzman - Bautista
 🌐 https://www.linkedin.com/in/afguzman1444/ 
 
-**Data Architect** | **Data Engineering** | **Business Intelligence** | **Information Management** | **Analytics & ML** | **Cloud Computing**
+**Data Architecture** | **Data Engineering** | **Data Science, Analytics & ML** | **Data Governance** | **Business Intelligence & Insights** | **GCP Hands-on Professional**
 
 ### Professional Summary
-Results-driven professional in systems and computer engineering with over 9 years of experience, demonstrating a consistent track record of delivering high-impact results in the tech industry. Proficient in software development, data engineering, analytics, and project management. Adept at building strong relationships to facilitate collaborative achievement of high-priority goals. Thrives in fast-paced settings, leveraging expertise to drive team success. Committed to continuous learning and operational excellence. Seeking new cultural experiences and actively pursuing relocation to Japan, with a long-term commitment to live and work in the country. Eager to contribute to technological advancements while embracing the rich Japanese heritage and way of life.
+High performing professional in systems and computer engineering with 9+ years of experience, with a proven track record delivering high-impact results in the tech industry for data oriented products and services. Skilled in software development, data engineering, analytics, and hands-on experience with cloud computing platforms, with a focus on building strong relationships to facilitate collaborative achievement of high-priority goals. Thrives in fast-paced settings and leverages expertise to drive team success. Committed to continuous learning and striving for operational excellence. Seeking new cultural experiences and actively pursuing relocation to Japan, with a long-term commitment to live and work in the country. Eager to contribute to technological advancements while embracing the rich Japanese heritage and way of life.
 
 ### Key Skills
-- **Programming Languages:** Python, Java, GO, Scala, SQL/T-SQL, MDX/DAX
-- **Databases:** MySQL, MS SQL Server, PostgreSQL, BigQuery, Hadoop, Mongo DB
-- **Web Application Frameworks:** Flask, Django, SpringBoot
-- **Cloud Computing:** Google Cloud Platform (GCP)
-- **Virtualization and Orchestration:** Docker, Kubernetes
-- **Monitoring and Observability:** Splunk, Elasticsearch, NewRelic 
-- **Data Visualization:** Tableau, Power BI, Looker, Matplotlib, Seaborn
-- **Data Processing and ETL:** Apache Spark, Apache Airflow, MS SSIS, Data Fusion 
-- **Process Automation:** Web scraping, Webform automation with Selenium, Shell/Bash
-- **Data Modeling and Analytics:** Jupyter Notebooks, Pandas, NumPy, Automated EDA
-- **Machine Learning:** Fast AI, Pytorch, scikit-learn
-- **Version control:** GIT, GitHub
+- **Programming Languages**: Python, Java, GO, Scala, SQL/T-SQL, MDX/DAX.
+- **Databases**: MySQL, MS SQL Server, PostgreSQL, BigQuery, Mongo DB, FireStore.
+- **Cloud Computing Platform**: Google Cloud Platform (GCP), Amazon Web Services (AWS).
+- **Big Data Processing and ETL Tools**: Airflow, Hadoop, Spark, dbt, MS SSIS.
+- **Containers and Orchestration**: Docker, Kubernetes.
+- **Message Queue and Event Streaming**: Apache Kafka, GCP PubSub.
+- **Data Visualization**: Tableau, Power BI, Looker, Matplotlib, Seaborn.
+- **Data Modeling and Analytics**: Jupyter Notebooks, PySpark, SparkSQL, Pandas, NumPy,  Automated EDA.
+- **Process Automation**: Web scraping, Selenium, Shell/Bash, Cron, GCP CloudScheduler.
+- **Monitoring and Observability**: Splunk, Elasticsearch, New Relic.
+- **Machine Learning**: scikit-learn, AWS SageMaker.
+- **Web Application Frameworks**: Flask, Django, SpringBoot.
+- **Version Control**: GIT, GitHub.
 
 ### Languages 
 **English (C2), French (B2), Japanese (Basic), Spanish (C2)**
