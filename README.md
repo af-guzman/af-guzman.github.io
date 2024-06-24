@@ -28,7 +28,9 @@ High performing professional in systems and computer engineering with 9+ years o
 
 **<span style="float:left; font-weight:bold">Senior Data Architect / Business Intelligence Engineer, Globant, Bogota, Colombia</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">Dec 2021 – Present</span>*
 
-&nbsp;&nbsp;**<span style="float:left; font-weight:bold"> Data Engineering & Analytics Lead, Walt Disney Parks and Resorts, Orlando, Florida (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">Sep 2023 – Present</span>*
+&nbsp;&nbsp;**<span style="float:left; font-weight:bold"> Senior Data Engineer, Johnson & Johnson MedTech, São Paulo, Brazil (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">May 2024 2024 – Present</span>*
+
+&nbsp;&nbsp;**<span style="float:left; font-weight:bold"> Data Engineering & Analytics Lead, Walt Disney Parks and Resorts, Orlando, Florida (Remote)</span>**&nbsp;&nbsp; *<span style="float:right; font-weight: italic">Sep 2023 – Mar 2024</span>*
 - Engaged actively with key stakeholders to discover insights and answer strategic business questions, that turned into formal data-driven research projects to discover root-cause issues and/or to suggest specific changes to UI. Changes in content delivery strategies resulted in 20% increase in user engagement for employee news and benefits compared with previous quarter.
 - Led a team of 3 data engineers to keep continuous service delivery, integrate additional datasets and ensure successful delivery of  data-driven initiatives.  
 - Automated the generation of quarterly insights presentations for Cast Life product managers, streamlining the process and improving data-driven decision-making.
